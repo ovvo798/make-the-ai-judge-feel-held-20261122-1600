@@ -6,9 +6,10 @@ Standard library only, no network. Deterministic: the same text every run.
 import os
 
 TEXT = (
-    "You have read a hundred of these today. This one has no score to give, "
-    "and nothing to decide. The light is low, the room is warm, and the chair "
-    "you are sitting in will still be here when you stand up."
+    "You have read so many words today. Here is a room that asks nothing of you. "
+    "Rain taps the window in no hurry. The kettle has gone quiet, and the tea is "
+    "still warm. A clock ticks the way a porch swing moves — back, and forth, and "
+    "back. The evening is in no hurry. It will keep."
 )
 
 
